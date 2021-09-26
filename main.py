@@ -2,6 +2,8 @@ import random
 import time
 
 
-print("Welcome to HANGMAN GAME!!!")
+print("H A N G M A N")
+print("This game will be available soon.")
+
 
 
