@@ -5,7 +5,6 @@ import string
 
 
 print("H A N G M A N")
-print("This game will be available soon.")
-
-
-
+def get_valid_word(words):
+    word = random.choice(words)  # randomly choose something from the list
+    
